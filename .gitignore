@@ -7,4 +7,4 @@ scripts/*.zip
 scripts/*.pkl
 workspace
 core/__pycache__
-android
+android/
