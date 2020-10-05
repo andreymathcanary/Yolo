@@ -1,0 +1,10 @@
+yolov3*.*
+yolov3*
+mAP/
+scripts/coco
+scripts/voc
+scripts/*.zip
+scripts/*.pkl
+workspace
+core/__pycache__
+android
